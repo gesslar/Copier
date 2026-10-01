@@ -32,4 +32,4 @@ wish upon the first star on the left and maybe it will manifest.
 
 ## License
 
-`threshcopy` is released under the [0BSD](LICENSE.txt).
+`Copier` is released under the [0BSD](LICENSE.txt).

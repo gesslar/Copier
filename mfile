@@ -1,7 +1,7 @@
 {
   "package": "Copier",
   "title": "Convenient copy functions for Mudlet.",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "author": "gesslar",
   "icon": "clipboard.png",
   "dependencies": "",
